@@ -8,6 +8,14 @@
     "lastEdited": "2020-05-24T18:54:36.000Z"
   },
   {
+    "title": "Is there an IP range I can whitelist?",
+    "description": "Information on whitelisting IP addresses from Vercel",
+    "editUrl": "pages/knowledge/whitelisting-ips.mdx",
+    "url": "/knowledge/whitelisting-ips",
+    "published": "2020-05-27T18:54:36.000Z",
+    "lastEdited": "2020-05-24T18:54:36.000Z"
+  },
+  {
     "title": "Why am I no longer receiving email after verifying my Vercel domain?",
     "description": "Information on why you may not be receiving email after verifying your domain with Vercel.",
     "editUrl": "pages/knowledge/why-has-email-stopped-working.mdx",
